@@ -4,6 +4,10 @@ body {
     background: #FFF;
 }
 
+header {
+    background-color: #F3E9F1;
+}
+
 .logo_commerce {
     display: flex;
     flex-direction: row;
@@ -131,7 +135,7 @@ footer {
 	display: flex;
     flex-wrap: wrap;
     background-color: #F3E9F1;
-    background-image: url('/back-end/images/back-pic.jpg');
+    background-image: url('/front-end/img/back-pic.jpg');
     background-repeat: repeat-x;
     background-size: cover;
 }
